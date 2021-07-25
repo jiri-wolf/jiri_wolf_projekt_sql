@@ -24,6 +24,19 @@ SELECT c.country, population_density,
 	((SELECT le.life_expectancy FROM life_expectancy le 
 	WHERE le.country = cbd.country AND le.`year` = '2015') - (SELECT le.life_expectancy FROM life_expectancy le 
 	WHERE le.country = cbd.country AND le.`year` = '1965')) AS 'life_expectancy_diff_1965_2015',
+	(SELECT TRUNCATE((avg(w.temp)),2) FROM weather w 
+    WHERE w.`time` BETWEEN '06:00 ' AND '21:00 ' AND (MONTH(w.`date`)>=3 AND DAYOFMONTH(w.`date`)>=1) AND (MONTH(w.`date`) <= 5 AND DAYOFMONTH(w.`date`)<=31)
+    AND w.city = c.capital_city) as 'average_temp_season_0',
+    (SELECT TRUNCATE((avg(w.temp)),2) FROM weather w 
+    WHERE w.`time` BETWEEN '06:00 ' AND '21:00 ' AND (MONTH(w.`date`)>=6 AND DAYOFMONTH(w.`date`)>=1) AND (MONTH(w.`date`) <= 8 AND DAYOFMONTH(w.`date`)<=31)
+    AND w.city = c.capital_city) as 'average_temp_season_1',
+    (SELECT TRUNCATE((avg(w.temp)),2) FROM weather w 
+    WHERE w.`time` BETWEEN '06:00 ' AND '21:00 ' AND (MONTH(w.`date`)>=9 AND DAYOFMONTH(w.`date`)>=1) AND (MONTH(w.`date`) <= 11 AND DAYOFMONTH(w.`date`)<=31)
+    AND w.city = c.capital_city) as 'average_temp_season_2',
+    (SELECT TRUNCATE((avg(w.temp)),2) FROM weather w 
+    WHERE w.`time` BETWEEN '06:00 ' AND '21:00 '
+    AND (((MONTH(w.`date`)>=12 AND DAYOFMONTH(w.`date`)>=1) AND (MONTH(w.`date`) <= 12 AND DAYOFMONTH(w.`date`)<=31))
+     OR ((MONTH(w.`date`)>=1 AND DAYOFMONTH(w.`date`)>=1) AND (MONTH(w.`date`) <= 2 AND DAYOFMONTH(w.`date`)<=31))) AND w.city = c.capital_city) as 'average_temp_season_3',
 	c.median_age_2018 
 FROM covid19_basic_differences cbd
 inner JOIN countries c ON c.country = cbd.country;

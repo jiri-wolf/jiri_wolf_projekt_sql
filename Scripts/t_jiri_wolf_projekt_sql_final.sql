@@ -221,4 +221,5 @@ join `data`.`countries` `c` on
     
     
     
-    
+    select * from countries c 
+    group by country 
