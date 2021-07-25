@@ -143,7 +143,7 @@ select
     from
         `data`.`weather` `w`
     where
-        `w`.`time` between '06:00 ' and '21:00 '
+        `w`.`time` between '06:00' and '21:00'
         and month(`w`.`date`) >= 3
             and dayofmonth(`w`.`date`) >= 1
                 and month(`w`.`date`) <= 5
@@ -155,7 +155,7 @@ select
     from
         `data`.`weather` `w`
     where
-        `w`.`time` between '06:00 ' and '21:00 '
+        `w`.`time` between '06:00' and '21:00'
         and month(`w`.`date`) >= 6
             and dayofmonth(`w`.`date`) >= 1
                 and month(`w`.`date`) <= 8
@@ -167,7 +167,7 @@ select
     from
         `data`.`weather` `w`
     where
-        `w`.`time` between '06:00 ' and '21:00 '
+        `w`.`time` between '06:00' and '21:00'
         and month(`w`.`date`) >= 9
             and dayofmonth(`w`.`date`) >= 1
                 and month(`w`.`date`) <= 11
@@ -179,7 +179,7 @@ select
     from
         `data`.`weather` `w`
     where
-        `w`.`time` between '06:00 ' and '21:00 '
+        `w`.`time` between '06:00' and '21:00'
         and (month(`w`.`date`) >= 12
             and dayofmonth(`w`.`date`) >= 1
                 and month(`w`.`date`) <= 12
@@ -213,13 +213,11 @@ join `data`.`countries` `c` on
     
     
     
-    select * from vi_wolf_final_sql vwfs 
-    where season = 0
+select * from vi_wolf_final_sql vwfs 
+where season = 0
     
     
+     
     
-    
-    
-    
-    select * from countries c 
-    group by country 
+select * from countries c 
+group by country 
