@@ -41,11 +41,11 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
          
 #### 5. Ostatní
          Odkaz na použitý dataset religions_by_percentage_share.csvje ve složce DataSets. Ten je rovněž ke stažení­ na adrese: 
-          [Data set](https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population)
+  [Adresa:](https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population)
   
   #### link example
   
-  [I'm a relative reference to a repository file](../tree/main/DataSets/religions_by_percentage_share.csv)
+  [I'm a relative reference to a repository file](../blob/master/)
          
          
 
