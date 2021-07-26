@@ -1,4 +1,4 @@
-# jiri_wolf_projekt_sql
+# Jiri Wolf projekt sql
 ## engeto projekt sql casti datove akademie
 
 #### 1. Naznačení postupu - skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve složce Scripts.
