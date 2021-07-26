@@ -1,7 +1,7 @@
 # Jiri Wolf projekt sql
 ## engeto projekt sql casti datove akademie
 
-# Zadání: 
+### Zadání: 
 
 Od Vašeho kolegy statistika jste obdrželi následující email:
 
@@ -30,13 +30,17 @@ počet hodin v daném dni, kdy byly srážky nenulové
 maximální síla větru v nárazech během dne
 Napadají Vás ještě nějaké další proměnné, které bychom mohli použít? Pokud vím, měl(a) byste si vystačit s daty z následujících tabulek: countries, economies, life_expectancy, religions, covid19_basic_differences, covid19_testing, weather, lookup_table.
 
-#### 1. Naznačení postupu - skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve složce Scripts.
+#### 1. Naznačení postupu 
+        skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve složce Scripts.
 
-#### 2. Odkaz na použitý dataset religions_by_percentage_share.csv je ve složce DataSets. Ten je rovněž ke stažení­ na adrese: https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population
+#### 2. Výsledný skript
+        t_jiri_wolf_projekt_sql_final je ve složce Scripts.
 
-#### 3. Výsledný skript: t_jiri_wolf_projekt_sql_final je ve složce Scripts.
-
-#### 4. Průvodní­ dokumentace je ve složce Docs
+#### 3. Dokumentace
+         Průvodní dokumentace je ve složce Docs
+         
+#### 4. Ostatní
+         Odkaz na použitý dataset religions_by_percentage_share.csvje ve složce DataSets. Ten je rovněž ke stažení­ na adrese: https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population
 
 
 
