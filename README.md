@@ -40,7 +40,7 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
   Průvodní dokumentace je ve složce [Docs](../main/Docs/sql_projekt_engeto_wolf_jiri.docx).
          
 #### 5. Ostatní
-  Odkaz na použitý dataset religions_by_percentage_share.csvje ve složce [DataSets](../main/DataSets/religions_by_percentage_share.csv). Ten je rovněž ke stažení­ na adrese: 
+  Odkaz na použitý dataset religions_by_percentage_share.csv je ve složce [DataSets](../main/DataSets/religions_by_percentage_share.csv). Ten je rovněž ke stažení­ na adrese: 
   [datahub.io...](https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population)
 
   
