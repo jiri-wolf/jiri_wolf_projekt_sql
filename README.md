@@ -43,7 +43,7 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
          Odkaz na použitý dataset religions_by_percentage_share.csvje ve složce DataSets. Ten je rovněž ke stažení­ na adrese: 
           [Data set](https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population)
   
-  ## link example    
+  ## link example:    
          [I'm a relative reference to a repository file](jiri_wolf_projekt_sql/DataSets)
          
          [I'm an inline-style link](https://www.google.com)
