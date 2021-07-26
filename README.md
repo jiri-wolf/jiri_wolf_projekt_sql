@@ -37,7 +37,7 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
   t_jiri_wolf_projekt_sql_final je ve složce [Scripts](../main/Scripts).
 
 #### 4. Dokumentace
-  Průvodní dokumentace je ve složce [Docs](../main/Docs).
+  Průvodní dokumentace je ve složce [Docs](../main/Docs/sql_projekt_engeto_wolf_jiri.docx).
          
 #### 5. Ostatní
   Odkaz na použitý dataset religions_by_percentage_share.csvje ve složce [DataSets](../main/DataSets/religions_by_percentage_share.csv). Ten je rovněž ke stažení­ na adrese: 
