@@ -45,6 +45,8 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
   
   ## link example    
          [I'm a relative reference to a repository file](jiri_wolf_projekt_sql/DataSets)
+         
+         [I'm an inline-style link](https://www.google.com)
 
 
 
