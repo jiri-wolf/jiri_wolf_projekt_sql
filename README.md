@@ -1,13 +1,13 @@
 #jiri_wolf_projekt_sql
 engeto projekt sql casti datove akademie
 
-1. Naznaèení postupu - skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve sloce Scripts.
+1. NaznaÄenÃ­ postupu - skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve sloÅ¾ce Scripts.
 
-2. Ukázka pouitého datasetu ve formì souboru csv ve sloce DataSets. Ten je rovnì ke staení­ na adrese: https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population
+2. Odkaz na pouÅ¾itÃ½ dataset religions_by_percentage_share.csv je ve sloÅ¾ce DataSets. Ten je rovnÄ›Å¾ ke staÅ¾enÃ­Â­ na adrese: https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population
 
-3. Vıslednı skript: t_jiri_wolf_projekt_sql_final je ve sloce Scripts.
+3. VÃ½slednÃ½ skript: t_jiri_wolf_projekt_sql_final je ve sloÅ¾ce Scripts.
 
-4. Prùvodní­ dokumentace je ve sloce Docs
+4. PrÅ¯vodnÃ­Â­ dokumentace je ve sloÅ¾ce Docs
 
 
 
