@@ -31,7 +31,7 @@ maximální síla větru v nárazech během dne
 Napadají Vás ještě nějaké další proměnné, které bychom mohli použít? Pokud vím, měl(a) byste si vystačit s daty z následujících tabulek: countries, economies, life_expectancy, religions, covid19_basic_differences, covid19_testing, weather, lookup_table.
 
 #### 2. Naznačení postupu 
-  skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve složce Scripts.
+  skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve složce [Scripts](../main/Scripts).
 
 #### 3. Výsledný skript
   t_jiri_wolf_projekt_sql_final je ve složce Scripts.
