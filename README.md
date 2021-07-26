@@ -34,10 +34,10 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
   skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve složce [Scripts](../main/Scripts).
 
 #### 3. Výsledný skript
-  t_jiri_wolf_projekt_sql_final je ve složce Scripts.
+  t_jiri_wolf_projekt_sql_final je ve složce [Scripts](../main/Scripts.
 
 #### 4. Dokumentace
-   Průvodní dokumentace je ve složce Docs
+   Průvodní dokumentace je ve složce [Docs](../main/Docs
          
 #### 5. Ostatní
   Odkaz na použitý dataset religions_by_percentage_share.csvje ve složce [DataSets](../main/DataSets/religions_by_percentage_share.csv). Ten je rovněž ke stažení­ na adrese: 
