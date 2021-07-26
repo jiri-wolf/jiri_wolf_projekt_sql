@@ -34,13 +34,13 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
   skripty CasovePromenne.sql a PromenneSpecifickeproDanyStat.sql ve složce [Scripts](../main/Scripts).
 
 #### 3. Výsledný skript
-  t_jiri_wolf_projekt_sql_final je ve složce [Scripts](../main/Scripts).
+  t_jiri_wolf_projekt_sql_final je ve složce [Scripts](../main/Scripts/t_jiri_wolf_projekt_sql_final.sql).
 
 #### 4. Dokumentace
-  Průvodní dokumentace je ve složce [Docs](../main/Docs/sql_projekt_engeto_wolf_jiri.docx).
+  Průvodní dokumentace je ve složce Docs [zde:](../main/Docs/sql_projekt_engeto_wolf_jiri.docx).
          
 #### 5. Ostatní
-  Odkaz na použitý dataset religions_by_percentage_share.csv je ve složce [DataSets](../main/DataSets/religions_by_percentage_share.csv). Ten je rovněž ke stažení­ na adrese: 
+  Odkaz na použitý dataset religions_by_percentage_share.csv je ve složce DataSets[zde:](../main/DataSets/religions_by_percentage_share.csv). Ten je rovněž ke stažení­ na adrese: 
   [datahub.io...](https://datahub.io/sagargg/world-religion-projections#resource-by_number_of_population)
 
   
