@@ -45,7 +45,7 @@ Napadají Vás ještě nějaké další proměnné, které bychom mohli použít
   
   #### link example
   
-  [I'm a relative reference to a repository file](../blob/master/)
+  [I'm a relative reference to a repository file](../main/README.md)
          
          
 
